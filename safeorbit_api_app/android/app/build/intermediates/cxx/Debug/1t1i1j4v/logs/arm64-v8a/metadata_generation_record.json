@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 24 min SDK version: arm64-v8a",
+    "file_": "C:\\Users\\akinm\\Files\\Codes\\safeorbit\\expo\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\akinm\\Files\\Codes\\safeorbit\\expo\\android\\app\\.cxx\\Debug\\1t1i1j4v\\arm64-v8a\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\akinm\\Files\\Codes\\safeorbit\\expo\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "- no fingerprint file, will remove stale configuration folder",
+    "file_": "C:\\Users\\akinm\\Files\\Codes\\safeorbit\\expo\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"C:\\\\Program Files\\\\Java\\\\jdk-21\\\\bin\\\\java\" ^\n  --class-path ^\n  \"C:\\\\Users\\\\akinm\\\\.gradle\\\\caches\\\\modules-2\\\\files-2.1\\\\com.google.prefab\\\\cli\\\\2.1.0\\\\aa32fec809c44fa531f01dcfb739b5b3304d3050\\\\cli-2.1.0-all.jar\" ^\n  com.google.prefab.cli.AppKt ^\n  --build-system ^\n  cmake ^\n  --platform ^\n  android ^\n  --abi ^\n  arm64-v8a ^\n  --os-version ^\n  24 ^\n  --stl ^\n  c++_shared ^\n  --ndk-version ^\n  27 ^\n  --output ^\n  \"C:\\\\Users\\\\akinm\\\\AppData\\\\Local\\\\Temp\\\\agp-prefab-staging7859599447825735462\\\\staged-cli-output\" ^\n  \"C:\\\\Users\\\\akinm\\\\Files\\\\Codes\\\\safeorbit\\\\expo\\\\android\\\\app\\\\build\\\\intermediates\\\\cxx\\\\refs\\\\react-native-vision-camera\\\\t3fw3g4h\" ^\n  \"C:\\\\Users\\\\akinm\\\\.gradle\\\\caches\\\\8.14.3\\\\transforms\\\\8bca444e06763d64457172ec6b80f8aa\\\\transformed\\\\react-android-0.81.5-debug\\\\prefab\" ^\n  \"C:\\\\Users\\\\akinm\\\\Files\\\\Codes\\\\safeorbit\\\\expo\\\\android\\\\app\\\\build\\\\intermediates\\\\cxx\\\\refs\\\\react-native-reanimated\\\\3v432s5z\" ^\n  \"C:\\\\Users\\\\akinm\\\\Files\\\\Codes\\\\safeorbit\\\\expo\\\\android\\\\app\\\\build\\\\intermediates\\\\cxx\\\\refs\\\\react-native-worklets\\\\4f541083\" ^\n  \"C:\\\\Users\\\\akinm\\\\Files\\\\Codes\\\\safeorbit\\\\expo\\\\android\\\\app\\\\build\\\\intermediates\\\\cxx\\\\refs\\\\react-native-worklets-core\\\\2f6l5a4n\" ^\n  \"C:\\\\Users\\\\akinm\\\\.gradle\\\\caches\\\\8.14.3\\\\transforms\\\\e5d19bd6b3826afe5eb577927188e196\\\\transformed\\\\hermes-android-0.81.5-debug\\\\prefab\" ^\n  \"C:\\\\Users\\\\akinm\\\\.gradle\\\\caches\\\\8.14.3\\\\transforms\\\\e2ac816cc322e0622c8e36eeb217f096\\\\transformed\\\\fbjni-0.7.0\\\\prefab\"\n",
+    "file_": "C:\\Users\\akinm\\Files\\Codes\\safeorbit\\expo\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "Received process result: 0",
+    "file_": "C:\\Users\\akinm\\Files\\Codes\\safeorbit\\expo\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027C:\\Users\\akinm\\Files\\Codes\\safeorbit\\expo\\android\\app\\.cxx\\Debug\\1t1i1j4v\\arm64-v8a\u0027",
+    "file_": "C:\\Users\\akinm\\Files\\Codes\\safeorbit\\expo\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\Users\\akinm\\Files\\Codes\\safeorbit\\expo\\android\\app\\.cxx\\Debug\\1t1i1j4v\\arm64-v8a\u0027",
+    "file_": "C:\\Users\\akinm\\Files\\Codes\\safeorbit\\expo\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake @echo off\n\"C:\\\\Users\\\\akinm\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\akinm\\\\Files\\\\Codes\\\\safeorbit\\\\expo\\\\node_modules\\\\react-native\\\\ReactAndroid\\\\cmake-utils\\\\default-app-setup\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d24\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-24\" ^\n  \"-DANDROID_ABI\u003darm64-v8a\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\akinm\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\27.1.12297006\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\akinm\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\27.1.12297006\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\akinm\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\27.1.12297006\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\akinm\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\akinm\\\\Files\\\\Codes\\\\safeorbit\\\\expo\\\\android\\\\app\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\1t1i1j4v\\\\obj\\\\arm64-v8a\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\akinm\\\\Files\\\\Codes\\\\safeorbit\\\\expo\\\\android\\\\app\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\1t1i1j4v\\\\obj\\\\arm64-v8a\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-DCMAKE_FIND_ROOT_PATH\u003dC:\\\\Users\\\\akinm\\\\Files\\\\Codes\\\\safeorbit\\\\expo\\\\android\\\\app\\\\.cxx\\\\Debug\\\\1t1i1j4v\\\\prefab\\\\arm64-v8a\\\\prefab\" ^\n  \"-BC:\\\\Users\\\\akinm\\\\Files\\\\Codes\\\\safeorbit\\\\expo\\\\android\\\\app\\\\.cxx\\\\Debug\\\\1t1i1j4v\\\\arm64-v8a\" ^\n  -GNinja ^\n  \"-DPROJECT_BUILD_DIR\u003dC:\\\\Users\\\\akinm\\\\Files\\\\Codes\\\\safeorbit\\\\expo\\\\android\\\\app\\\\build\" ^\n  \"-DPROJECT_ROOT_DIR\u003dC:\\\\Users\\\\akinm\\\\Files\\\\Codes\\\\safeorbit\\\\expo\\\\android\" ^\n  \"-DREACT_ANDROID_DIR\u003dC:\\\\Users\\\\akinm\\\\Files\\\\Codes\\\\safeorbit\\\\expo\\\\node_modules\\\\react-native\\\\ReactAndroid\" ^\n  \"-DANDROID_STL\u003dc++_shared\" ^\n  \"-DANDROID_SUPPORT_FLEXIBLE_PAGE_SIZES\u003dON\"\n",
+    "file_": "C:\\Users\\akinm\\Files\\Codes\\safeorbit\\expo\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"C:\\\\Users\\\\akinm\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\akinm\\\\Files\\\\Codes\\\\safeorbit\\\\expo\\\\node_modules\\\\react-native\\\\ReactAndroid\\\\cmake-utils\\\\default-app-setup\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d24\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-24\" ^\n  \"-DANDROID_ABI\u003darm64-v8a\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\akinm\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\27.1.12297006\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\akinm\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\27.1.12297006\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\akinm\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\27.1.12297006\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\akinm\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\akinm\\\\Files\\\\Codes\\\\safeorbit\\\\expo\\\\android\\\\app\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\1t1i1j4v\\\\obj\\\\arm64-v8a\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\akinm\\\\Files\\\\Codes\\\\safeorbit\\\\expo\\\\android\\\\app\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\1t1i1j4v\\\\obj\\\\arm64-v8a\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-DCMAKE_FIND_ROOT_PATH\u003dC:\\\\Users\\\\akinm\\\\Files\\\\Codes\\\\safeorbit\\\\expo\\\\android\\\\app\\\\.cxx\\\\Debug\\\\1t1i1j4v\\\\prefab\\\\arm64-v8a\\\\prefab\" ^\n  \"-BC:\\\\Users\\\\akinm\\\\Files\\\\Codes\\\\safeorbit\\\\expo\\\\android\\\\app\\\\.cxx\\\\Debug\\\\1t1i1j4v\\\\arm64-v8a\" ^\n  -GNinja ^\n  \"-DPROJECT_BUILD_DIR\u003dC:\\\\Users\\\\akinm\\\\Files\\\\Codes\\\\safeorbit\\\\expo\\\\android\\\\app\\\\build\" ^\n  \"-DPROJECT_ROOT_DIR\u003dC:\\\\Users\\\\akinm\\\\Files\\\\Codes\\\\safeorbit\\\\expo\\\\android\" ^\n  \"-DREACT_ANDROID_DIR\u003dC:\\\\Users\\\\akinm\\\\Files\\\\Codes\\\\safeorbit\\\\expo\\\\node_modules\\\\react-native\\\\ReactAndroid\" ^\n  \"-DANDROID_STL\u003dc++_shared\" ^\n  \"-DANDROID_SUPPORT_FLEXIBLE_PAGE_SIZES\u003dON\"\n",
+    "file_": "C:\\Users\\akinm\\Files\\Codes\\safeorbit\\expo\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "Received process result: 0",
+    "file_": "C:\\Users\\akinm\\Files\\Codes\\safeorbit\\expo\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of C:\\Users\\akinm\\Files\\Codes\\safeorbit\\expo\\android\\app\\.cxx\\Debug\\1t1i1j4v\\arm64-v8a\\compile_commands.json.bin normally",
+    "file_": "C:\\Users\\akinm\\Files\\Codes\\safeorbit\\expo\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "C:\\Users\\akinm\\Files\\Codes\\safeorbit\\expo\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "hard linked C:\\Users\\akinm\\Files\\Codes\\safeorbit\\expo\\android\\app\\.cxx\\Debug\\1t1i1j4v\\arm64-v8a\\compile_commands.json to C:\\Users\\akinm\\Files\\Codes\\safeorbit\\expo\\android\\app\\.cxx\\tools\\debug\\arm64-v8a\\compile_commands.json",
+    "file_": "C:\\Users\\akinm\\Files\\Codes\\safeorbit\\expo\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\akinm\\Files\\Codes\\safeorbit\\expo\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.anonymous.safeorbit.app-debug-94:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.anonymous.safeorbit.app-main-96:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.anonymous.safeorbit.app-debug-94:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.anonymous.safeorbit.app-main-96:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.anonymous.safeorbit.app-debug-94:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.anonymous.safeorbit.app-main-96:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.anonymous.safeorbit.app-debug-94:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.anonymous.safeorbit.app-main-96:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.anonymous.safeorbit.app-debug-94:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.anonymous.safeorbit.app-main-96:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.anonymous.safeorbit.app-debug-94:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.anonymous.safeorbit.app-main-96:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.anonymous.safeorbit.app-debug-94:/drawable-xxhdpi_splashscreen_logo.png.flat",
+        "source": "com.anonymous.safeorbit.app-main-96:/drawable-xxhdpi/splashscreen_logo.png"
+    },
+    {
+        "merged": "com.anonymous.safeorbit.app-debug-94:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.anonymous.safeorbit.app-main-96:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.anonymous.safeorbit.app-debug-94:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.anonymous.safeorbit.app-main-96:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.anonymous.safeorbit.app-debug-94:/drawable-mdpi_splashscreen_logo.png.flat",
+        "source": "com.anonymous.safeorbit.app-main-96:/drawable-mdpi/splashscreen_logo.png"
+    },
+    {
+        "merged": "com.anonymous.safeorbit.app-debug-94:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.anonymous.safeorbit.app-main-96:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.anonymous.safeorbit.app-debug-94:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.anonymous.safeorbit.app-main-96:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.anonymous.safeorbit.app-debug-94:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.anonymous.safeorbit.app-main-96:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.anonymous.safeorbit.app-debug-94:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.anonymous.safeorbit.app-main-96:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.anonymous.safeorbit.app-debug-94:/drawable-hdpi_splashscreen_logo.png.flat",
+        "source": "com.anonymous.safeorbit.app-main-96:/drawable-hdpi/splashscreen_logo.png"
+    },
+    {
+        "merged": "com.anonymous.safeorbit.app-debug-94:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.anonymous.safeorbit.app-main-96:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.anonymous.safeorbit.app-debug-94:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.anonymous.safeorbit.app-main-96:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.anonymous.safeorbit.app-debug-94:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.anonymous.safeorbit.app-main-96:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.anonymous.safeorbit.app-debug-94:/drawable-xxxhdpi_splashscreen_logo.png.flat",
+        "source": "com.anonymous.safeorbit.app-main-96:/drawable-xxxhdpi/splashscreen_logo.png"
+    },
+    {
+        "merged": "com.anonymous.safeorbit.app-debug-94:/drawable-xhdpi_splashscreen_logo.png.flat",
+        "source": "com.anonymous.safeorbit.app-main-96:/drawable-xhdpi/splashscreen_logo.png"
+    },
+    {
+        "merged": "com.anonymous.safeorbit.app-debug-94:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.anonymous.safeorbit.app-main-96:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.anonymous.safeorbit.app-debug-94:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.anonymous.safeorbit.app-main-96:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.anonymous.safeorbit.app-debug-94:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.anonymous.safeorbit.app-main-96:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.anonymous.safeorbit.app-debug-94:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.anonymous.safeorbit.app-main-96:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    }
+]
