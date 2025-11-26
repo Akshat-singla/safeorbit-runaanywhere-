@@ -1,6 +1,7 @@
 import { SettingsSection } from '@/components/settings/settings-section';
 import { SettingsItem } from '@/components/settings/settings-item';
 import { SettingsToggle } from '@/components/settings/settings-toggle';
+import { EmergencyContactSettings } from '@/components/settings/emergency-contact-settings';
 import * as React from 'react';
 import { ScrollView, View } from 'react-native';
 
@@ -14,6 +15,11 @@ export default function SettingsScreen() {
         showsVerticalScrollIndicator={false}
         contentContainerStyle={{ paddingBottom: 10, marginTop: 20 }}
       >
+        {/* Emergency Contact Section */}
+        <View className="px-6 mb-6">
+          <EmergencyContactSettings />
+        </View>
+
         {/* Preferences Section */}
         <SettingsSection title="PREFERENCES">
           <SettingsItem 

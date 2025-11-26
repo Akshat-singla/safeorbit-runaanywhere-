@@ -2,7 +2,7 @@ import { Button } from '@/components/ui/button';
 import { Card } from '@/components/ui/card';
 import { Icon } from '@/components/ui/icon';
 import { Text } from '@/components/ui/text';
-import { ShieldCheckIcon, ClockIcon, TrashIcon, MessageCircleIcon } from 'lucide-react-native';
+import { ShieldCheckIcon, ClockIcon, TrashIcon, MessageCircleIcon, PhoneIcon } from 'lucide-react-native';
 import * as React from 'react';
 import { Pressable, ScrollView, View, Alert, RefreshControl } from 'react-native';
 import { useRouter } from 'expo-router';
@@ -92,12 +92,23 @@ export default function HomeScreen() {
           <View className="gap-3">
             <Button 
               className="h-14 bg-red-600 rounded-xl shadow-lg border-2 border-red-400"
+              onPress={() => router.push('/(tabs)/emergency-actions' as any)}
+            >
+              <View className="flex-row items-center gap-2">
+                <Icon as={PhoneIcon} size={20} color="#ffffff" />
+                <Text className="text-white font-bold text-base">
+                  🚨 Emergency Actions
+                </Text>
+              </View>
+            </Button>
+            <Button 
+              className="h-14 bg-orange-600 rounded-xl shadow-lg border-2 border-orange-400"
               onPress={() => router.push('/(tabs)/emergency-chat' as any)}
             >
               <View className="flex-row items-center gap-2">
                 <Icon as={MessageCircleIcon} size={20} color="#ffffff" />
                 <Text className="text-white font-bold text-base">
-                  🚨 Emergency Chat Assistant
+                  💬 Emergency Chat Assistant
                 </Text>
               </View>
             </Button>

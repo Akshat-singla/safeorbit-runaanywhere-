@@ -2,7 +2,7 @@ import { Button } from '@/components/ui/button';
 import { Icon } from '@/components/ui/icon';
 import { UserMenu } from '@/components/user-menu';
 import { Tabs } from 'expo-router';
-import { HomeIcon, ScanIcon, SettingsIcon, MoonStarIcon, SunIcon, LayoutDashboard, VideoIcon, MessageCircleIcon } from 'lucide-react-native';
+import { HomeIcon, ScanIcon, SettingsIcon, MoonStarIcon, SunIcon, LayoutDashboard, VideoIcon, MessageCircleIcon, PhoneIcon } from 'lucide-react-native';
 import { useColorScheme } from 'nativewind';
 import { View } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
@@ -97,6 +97,15 @@ export default function TabsLayout() {
           title: 'Emergency',
           tabBarIcon: ({ color, size }) => (
             <Icon as={MessageCircleIcon} size={size} color={color} />
+          ),
+        }}
+      />
+      <Tabs.Screen
+        name="emergency-actions"
+        options={{
+          title: 'Actions',
+          tabBarIcon: ({ color, size }) => (
+            <Icon as={PhoneIcon} size={size} color={color} />
           ),
         }}
       />

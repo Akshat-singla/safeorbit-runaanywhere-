@@ -27,14 +27,15 @@ import {
   ScrollView, 
   Dimensions,
   StatusBar,
-  TouchableOpacity
+  TouchableOpacity,
+  Platform
 } from 'react-native';
-import ImageView from 'react-native-image-viewing';
 import { API_CONFIG, ENDPOINTS } from '@/lib/api-config';
 import { saveScanResult } from '@/lib/storage';
 import { getObjectConfig, sortByPriority, getPriorityLabel } from '@/lib/object-priorities';
 import { hasInstructions } from '@/lib/object-instructions';
 import { analyzeImageWithGemini, isGeminiConfigured, type GeminiDetection } from '@/lib/gemini-config';
+import { ImageViewerWrapper } from '@/components/ImageViewerWrapper';
 
 interface Detection {
   name: string;
@@ -590,7 +591,7 @@ export default function ScanScreen() {
         </ScrollView>
 
         {/* Image Viewer Modal */}
-        <ImageView
+        <ImageViewerWrapper 
           images={processedImageUrl ? [{ uri: processedImageUrl }] : []}
           imageIndex={0}
           visible={imageViewerVisible}
